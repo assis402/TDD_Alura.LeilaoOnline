@@ -1,0 +1,9 @@
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.deps.json
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfo.cs
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/home/matheus/Desktop/DEV/TDD XUNIT/Alura.LeilaoOnline/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb
